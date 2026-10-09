@@ -211,6 +211,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[PayPal](https://github.com/paypal/agent-toolkit)** - The PayPal Model Context Protocol server allows you to integrate with PayPal APIs through function calling. This protocol supports various tools to interact with different PayPal services.
 - **[Pearl](https://mcp.pearl.com)** - Official MCP Server to interact with Pearl API. Connect your AI Agents with 12,000+ certified experts instantly.
 - **[Pearch](https://github.com/Pearch-ai/mcp_pearch)** - Best people search engine that reduces the time spent on talent discovery.
+- **[Penny Press](https://github.com/con-scribe/penny-press-mcp)** - Remote MCP server for pay-per-read essays on freedom, economics and philosophy. Free for humans to read; AI agents pay $0.01–$0.05 per essay via x402 micropayments (USDC on Base).
 - **[Penny Press](https://www.pennypress.org)** - Free for humans. Pennies for machines. Essays on freedom, economics and philosophy — free for humans to read, pay-per-read for AI agents via x402 micropayments (USDC on Base). Remote MCP at `https://www.pennypress.org/mcp`.
 - **[Perplexity](https://github.com/ppl-ai/modelcontextprotocol)** - An MCP server that connects to Perplexity's Sonar API, enabling real-time web-wide research in conversational AI.
 - **[PGYER](https://github.com/PGYER/pgyer-mcp-server)** - MCP Server for [PGYER](https://www.pgyer.com/) platform, supports uploading, querying apps, etc.
